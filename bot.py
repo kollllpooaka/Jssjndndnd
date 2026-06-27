@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 from datetime import datetime
 import asyncio
 
-TOKEN = "8720832994:AAEfXdmYKTKhc8Mlng-6ubUhFbSCue1WzN4"
+TOKEN = "8817855523:AAFnZEwlrTvHlgzjD6I46GKLr0P-flDqvq0"
 API_KEY = "fe_oa_a6a15b47870a3c42b90409df36e753aafcf8cf2235c2f686"
 ADMIN_ID = 8817855523
 
